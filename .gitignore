@@ -21,3 +21,4 @@
 # Ignore Sublime Project Files
 demo_app.sublime-project
 demo_app.sublime-workspace
+.project
